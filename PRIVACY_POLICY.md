@@ -60,7 +60,14 @@ Google Play and the Apple App Store may provide us with **aggregated, non-identi
 
 ## 5. Permissions
 
-On Android the game uses: **Internet** and **network state** (to load ads), **Advertising ID** (used by Google AdMob as described above) and **vibration** (for gentle haptics, which you can turn off in Settings).
+On Android the game uses:
+
+- **Internet** and **network state**: to load ads;
+- **Advertising ID** and **Android ad services** (ad ID, attribution and topics): used by Google AdMob as described in section 2; you control these in your device's privacy and ads settings;
+- **Vibration**: for gentle haptics, which you can turn off in Settings;
+- **Wake lock** and **foreground service**: added by Google's libraries to finish short background tasks reliably (they do not collect additional information).
+
+The game does not request location, contacts, camera, microphone, storage or notification permissions.
 
 ## 6. Children
 
