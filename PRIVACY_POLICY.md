@@ -20,7 +20,7 @@ The game saves the following **locally on your device** so you can continue wher
 - best score, the current run (board, pieces and score) and tutorial progress;
 - settings such as sound, volume and haptics.
 
-This information never leaves your device through us. It is deleted when you uninstall the game (or clear the app's data). The game does not access your contacts, photos, files, camera, microphone or precise location.
+This information never leaves your device through us. You can delete it at any time with **Settings › Reset Progress** in the game (your sound and haptics settings are kept), and everything is deleted when you uninstall the game or clear the app's data. The game does not access your contacts, photos, files, camera, microphone or precise location.
 
 ## 2. Advertising (Google AdMob)
 
@@ -81,7 +81,7 @@ We do not sell or rent personal information, and we do not share it with anyone,
 
 Depending on where you live (for example under the GDPR, UK GDPR or US state privacy laws), you may have rights to access, correct, delete or object to the processing of your personal information, and to withdraw consent. Because we do not hold personal information about you, most requests are handled by:
 
-- uninstalling the game or clearing its data (deletes everything stored on your device);
+- **Settings › Reset Progress** in the game (deletes your best score, saved run and tutorial progress), or uninstalling the game / clearing its data (deletes everything stored on your device);
 - **Settings › Privacy Options** in the game (ad consent and opt-out choices);
 - your device's advertising settings and Google's controls linked above.
 
