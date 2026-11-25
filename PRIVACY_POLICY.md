@@ -28,7 +28,7 @@ The game is free and supported by ads delivered by **Google AdMob** (the Google 
 
 - **Rewarded ads** play only when you choose them (for example "Fresh Set — Watch ad" or "Keep Playing"). You can always continue without watching.
 - **Full-screen ads** may appear occasionally between runs. They never appear during the tutorial or while you are playing a run.
-- There are no banner ads.
+- A small banner ad may appear at the bottom of the screen while you play (not on the main menu or during the tutorial).
 
 To deliver ads, Google may automatically collect and process information such as:
 
